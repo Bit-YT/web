@@ -1,0 +1,15 @@
+tablet & mini desktop
+@media (max-width: 1175px)
+
+/* Mobile*/
+@media (max-width: 500px)
+
+
+/*  Mini Mobile 1 */
+@media (max-width: 390px)
+
+/*  Mini Mobile 2 */
+@media (max-width: 376px)
+
+
+875x517
