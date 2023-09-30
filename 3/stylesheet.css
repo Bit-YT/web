@@ -383,7 +383,8 @@ header {
 @media (max-width: 500px) {
     .background_sec_2 {
         width: 100%;
-        height: 85vh;
+        height: max-content;
+        padding-bottom: 25px;
     }
     .about_img img {
         width: 220px;
